@@ -2,7 +2,7 @@
 {
     "fortnite": {
         "email": "comi061q@gmail.com",
-        "owner": [],
+        "owner": "ll9s",
         "platform": "WIN",
         "outfit": "CID_429_Athena_Commando_F_NeonLines",
         "outfit_style": "",
@@ -22,18 +22,18 @@
         "banner_color": "defaultcolor22",
         "avatar_id": "cid_005_athena_commando_m_default",
         "avatar_color": "#ffffff,#ffffff,#ffffff",
-        "level": 9999,
-        "tier": 9999,
+        "level": 666,
+        "tier": 99999999,
         "xpboost": 9999,
         "friendxpboost": 9999,
-        "status": "Battle Royale Lobby - {party_size} / {party_max_size}",
+        "status": "انستا ve9.2",
         "privacy": "private",
         "whisper": true,
         "partychat": true,
         "disablewhisperperfectly": false,
         "disablepartychatperfectly": false,
         "ignorebot": true,
-        "joinmessage": "メッセージ\n改行",
+        "joinmessage": "اطلق من يجون",
         "randommessage": [
             "1",
             "2",
@@ -41,10 +41,10 @@
             "4",
             "5"
         ],
-        "joinmessageenable": false,
+        "joinmessageenable": true,
         "randommessageenable": false,
-        "joinemote": true,
-        "click_invite": true,
+        "joinemote": false,
+        "click_invite": false,
         "disable_voice": false,
         "outfitmimic": false,
         "backpackmimic": false,
@@ -56,9 +56,9 @@
         "backpacklock": false,
         "pickaxelock": false,
         "emotelock": false,
-        "acceptinvite": true,
+        "acceptinvite": false,
         "acceptfriend": true,
-        "addfriend": false,
+        "addfriend": true,
         "invite-ownerdecline": true,
         "inviteinterval": true,
         "interval": 10,
@@ -90,16 +90,16 @@
         "otherbotlist": []
     },
     "discord": {
-        "enabled": false,
-        "token": "Discord Botのトークン",
+        "enabled": true,
+        "token": "OTExMjYyMjg5NDIyODUyMTA2.YZe1JA.ZYInQGwkQTB_FVKl7tpJAQLKXDw",
         "owner": [
-            123456789
+            796339903444680765
         ],
         "channels": [
-            "{name}-command-channel",
-            "bot-command-channel"
+            "839567652031561760",
+            "839567652031561760"
         ],
-        "status": "ステータス",
+        "status": "!",
         "status_type": "playing",
         "discord": true,
         "disablediscordperfectly": false,
@@ -112,7 +112,7 @@
         "whitelist-ignoreng": true
     },
     "web": {
-        "enabled": true,
+        "enabled": false,
         "ip": "{ip}",
         "port": 8000,
         "password": "",
